@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BooksRecommandationSystem",
+    "\\BooksRecommandationSystem\\Persistence",
+    "\\BooksRecommandationSystem\\Persistence\\Seed",
+    "\\BooksRecommandationSystem\\WebAPI"
+  ],
+  "SelectedNode": "\\BooksRecommandationSystem\\BooksRecommandationSystem.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alex-ama/Files/GitHub/Books-recommendation-system/BooksRecommandationSystem/Domain/Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/alex-ama/Files/GitHub/Books-recommendation-system/BooksRecommandationSystem/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alex-ama/Files/GitHub/Books-recommendation-system/BooksRecommandationSystem/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/alex-ama/Files/GitHub/Books-recommendation-system/BooksRecommandationSystem/Domain/Domain.csproj",
+        "packagesPath": "/Users/alex-ama/.nuget/packages/",
+        "outputPath": "/Users/alex-ama/Files/GitHub/Books-recommendation-system/BooksRecommandationSystem/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alex-ama/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

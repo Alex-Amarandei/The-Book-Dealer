@@ -1,0 +1,62 @@
+@import "/src/utils/_colors.scss";
+
+.book {
+  position: relative;
+  box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.06);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: 340px;
+
+  background: $color-white;
+}
+
+.info {
+  padding: 15px 20px 15px 20px;
+  text-decoration: none;
+  height: 170px;
+}
+
+.bookCover {
+  height: 110px;
+  object-fit: cover;
+}
+
+.bookTitle {
+  font-weight: 600;
+  font-size: 17px;
+  color: $color-gray-600;
+  max-height: fit-content;
+  max-width: 100%;
+}
+
+.author {
+  font-size: 14px;
+  padding-top: 5px;
+  color: $color-gray-400;
+  font-weight: 500;
+  max-height: fit-content;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.bookDescription {
+  padding-top: 8px;
+  height: 80px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  font-size: 15px;
+  color: $color-gray-300;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+}

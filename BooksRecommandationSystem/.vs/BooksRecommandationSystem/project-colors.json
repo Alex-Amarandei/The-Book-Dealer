@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f98afd91-2d73-44df-b675-5bb9571bbc2d": {
+      "ProjectGuid": "f98afd91-2d73-44df-b675-5bb9571bbc2d",
+      "DisplayName": "Application",
+      "ColorIndex": 0
+    },
+    "a76db969-48c7-4aa4-894e-e9b5de2dd38f": {
+      "ProjectGuid": "a76db969-48c7-4aa4-894e-e9b5de2dd38f",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "9d8c09a9-f395-4a0b-9aec-a8e330750dc5": {
+      "ProjectGuid": "9d8c09a9-f395-4a0b-9aec-a8e330750dc5",
+      "DisplayName": "Persistence",
+      "ColorIndex": 2
+    },
+    "6dad25ba-bc19-4b7b-b9b3-fc3e0fd120e3": {
+      "ProjectGuid": "6dad25ba-bc19-4b7b-b9b3-fc3e0fd120e3",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "14a03164-94e0-4fd0-9137-ecc1c22637d7": {
+      "ProjectGuid": "14a03164-94e0-4fd0-9137-ecc1c22637d7",
+      "DisplayName": "Infrastructure.Test",
+      "ColorIndex": 4
+    },
+    "576b7fc2-4813-47a2-b025-f6390f9eef43": {
+      "ProjectGuid": "576b7fc2-4813-47a2-b025-f6390f9eef43",
+      "DisplayName": "MachineLearning",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
